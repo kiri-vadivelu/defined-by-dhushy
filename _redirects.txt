@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-https://definedbydhushy.netlify.com/* https://definedbydhushy.com/:splat 301!
+https://definedbydhushy.netlify.app/* https://definedbydhushy.com/:splat 301!
