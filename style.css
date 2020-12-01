@@ -145,6 +145,15 @@
   section {
     padding: 20px;
   }
+
+  .fa-chess-queen {
+    color: var(--theme);
+    padding: 20px;
+  }
+
+  .intro h1 {
+    border-bottom: 2px solid var(--highlight);
+  }
   
 /* Navigation */  
   nav {
