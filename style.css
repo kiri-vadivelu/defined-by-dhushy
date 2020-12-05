@@ -267,11 +267,6 @@
   -webkit-animation: slideRight 1s ease-in-out;
 }
 
-.questions h1 {
-  animation: slideLeft 1s ease-in-out;
-  -webkit-animation: slideLeft 1s ease-in-out;
-}
-
 .about img {
   animation: slideUp 1s ease-in-out;
   -webkit-animation: slideUp 1s ease-in-out;
