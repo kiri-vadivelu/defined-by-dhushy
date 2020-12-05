@@ -148,11 +148,16 @@
 
   .fa-chess-queen {
     color: var(--theme);
-    padding: 20px;
+    max-height: 500px;
+    padding-top: 25px;
   }
 
   .intro h1 {
     border-bottom: 2px solid var(--highlight);
+  }
+  .intro p {
+    max-width: 800px;
+    text-align: center;
   }
   
 /* Navigation */  
