@@ -2,5 +2,4 @@
 Defined by Dhushy: Photo &amp; Film Makeup Art in the City of Toronto
 The project was researched, designed and developed by Digital Designers Team in the city of Toronto. 
 Digital Designers is a web design company that specilizes in creating advanced custom websites, search engine optimizations and social media marketing. 
-If you are interested in creating an awesome digital showcase of your professional work, please email Digital Designers at hello@digitaldesigners.ca. 
-Alternatively, you may visit Digital Designers via https://digitaldesigners.ca.
+If you are interested in creating an awesome digital showcase of your professional work, please visit Digital Designers via https://digitaldesigners.ca.
